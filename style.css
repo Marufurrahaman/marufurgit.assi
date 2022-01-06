@@ -1,0 +1,57 @@
+.clr0 {
+  font-size: 20px;
+  padding-top: 50px;
+  padding-left: 26px;
+  width: 50%;
+}
+.clr1 {
+  color: darkred;
+  font-size: 50px;
+}
+.clr2022 {
+  color: rgb(31, 238, 238);
+}
+.part1 {
+  display: flex;
+}
+.explore {
+  font-size: small;
+}
+.mission1 {
+  text-align: center;
+  padding-top: 50px;
+}
+.mission2 {
+  color: rgb(228, 40, 15);
+}
+.threemission {
+  display: flex;
+  width: 90%;
+  text-align: left;
+  padding: 100px;
+  padding-top: 50px;
+}
+.mission2022 {
+  background: linear-gradient(rgb(55, 199, 132), rgb(116, 196, 140));
+  border: 1px;
+  margin: 50px;
+  padding: 90px;
+  text-align: left;
+  border-radius: 5px;
+}
+.mission2021 {
+  background: linear-gradient(rgb(202, 224, 212), rgb(180, 101, 101));
+  border: 1px;
+  margin: 50px;
+  padding: 90px;
+  text-align: left;
+  border-radius: 5px;
+}
+.mission2020 {
+  background: linear-gradient(rgb(24, 185, 177), rgb(25, 53, 51));
+  border: 1px;
+  margin: 50px;
+  padding: 90px;
+  text-align: left;
+  border-radius: 5px;
+}
